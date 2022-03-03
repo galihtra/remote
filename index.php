@@ -10,7 +10,12 @@
 
 <body>
     <h1>Hello Dunia</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, incidunt? Quae sequi recusandae error quidem minima saepe ratione molestias possimus accusantium nemo distinctio porro provident, pariatur ducimus excepturi fugit doloribus!
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, incidunt? Quae sequi recusandae error quidem minima saepe ratione molestias possimus accusantium nemo distinctio porro provident, pariatur ducimus excepturi fugit doloribus!</p>
+    <ul>
+        <li>Galih</li>
+        <li>eko</li>
+        <li>cahyo</li>
+    </ul>
 </body>
 
 </html>
